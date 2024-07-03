@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightgray; /* Light gray background */
+}
+
+.navbar {
+    margin-bottom: 20px;
+    background-color: #2c3e50 !important; /* Navy blue */
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link {
+    color: #ecf0f1 !important; /* Light gray */
+}
+
+.navbar .nav-link:hover {
+    color: #1abc9c !important; /* Teal */
+}
+
+.jumbotron {
+    background-color: #2c3e50; /* Teal */
+    color: #ecf0f1; /* Light gray */
+    padding: 60px 10px;
+    margin-bottom: 40px;
+}
+
+.section-title {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    color: #2c3e50; /* Navy blue */
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.card-title {
+    color: #2c3e50; /* Navy blue */
+}
+
+.footer {
+    background-color: #2c3e50; /* Navy blue */
+    color: #ecf0f1; /* Light gray */
+    padding: 20px;
+    text-align: center;
+}
+
+.btn-primary {
+    background-color: #1abc9c; /* Teal */
+    border-color: #1abc9c; /* Teal */
+}
+
+.btn-primary:hover {
+    background-color: #16a085; /* Darker teal */
+    border-color: #16a085; /* Darker teal */
+}
+
+.form-group label {
+    color: #2c3e50; /* Navy blue */
+}
+
+hr {
+    border-top: 1px solid #2c3e50; /* Navy blue */
+}
+
+h5, h6 {
+    color: #2c3e50; /* Navy blue */
+}
